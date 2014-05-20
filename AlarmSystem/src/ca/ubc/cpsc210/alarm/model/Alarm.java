@@ -10,7 +10,8 @@ public class Alarm extends Observable {
 	 * Constructor creates a silent alarm.
 	 */
 	public Alarm() {
-		isSounding = false;
+		// error is here.
+		isSounding = whatever;
 	}
 	
 	/**
